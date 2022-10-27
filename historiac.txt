@@ -9,8 +9,13 @@ Esta por estudiar cobol
 
 Master 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 Master 2
 =======
 Experimento1 
 >>>>>>> 8a8e80e (Expe1)
+=======
+Experimento1 
+Experimento2
+>>>>>>> 131a995 (Experimento 2)
