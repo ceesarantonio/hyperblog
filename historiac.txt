@@ -8,5 +8,9 @@ Esta buscando chamba en datos
 Esta por estudiar cobol 
 
 Master 1
+<<<<<<< HEAD
 
 Master 2
+=======
+Experimento1 
+>>>>>>> 8a8e80e (Expe1)
